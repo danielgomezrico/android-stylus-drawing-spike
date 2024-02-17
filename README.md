@@ -11,4 +11,6 @@ This was a test because when you try to use the remote SDK from samsung on
 samsung s6 lite it shows:
 > This device does not support SPen Remote.
 
-![](./sample - samsung s6 lite.gif)
+# Example
+This was recorded on a samsung s6 lite:
+![](./sample.gif)
